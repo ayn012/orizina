@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+    background-color: #ffdaec;
+}
+#top {
+    background-color: rgb(227, 112, 112);
+    color: #ffffff;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+#about img {
+    width: 280px;
+    height: 200px;
+}
+#favorite ul {
+    width: fit-content;
+    margin: auto;
+}
+#favorite .continer {
+    display: flex;
+    justify-content: center;
+}
+#favorite .box {
+    margin: 20px;
+}
+#favorite .box img {
+    display: block;
+    width: 280px;
+    height: 200px;
+    margin-bottom: 10px;
+}
